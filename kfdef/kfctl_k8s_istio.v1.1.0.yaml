@@ -89,4 +89,4 @@ spec:
   repos:
   - name: manifests
     uri: https://github.com/GeorgeLeePatterson/manifests/archive/v1.5-fix.tar.gz
-  version: v1.4-fix
+  version: v1.5-fix
