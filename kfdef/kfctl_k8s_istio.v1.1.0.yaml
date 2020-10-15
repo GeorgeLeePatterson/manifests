@@ -90,4 +90,3 @@ spec:
   - name: manifests
     uri: https://github.com/GeorgeLeePatterson/manifests/archive/v1.3-fix.tar.gz
   version: v1.3-fix
->>>>>>> e0bf931e65a72cb13eac418f0bf207a420d2ac43
