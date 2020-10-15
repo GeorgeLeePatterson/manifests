@@ -88,5 +88,5 @@ spec:
     name: spartakus
   repos:
   - name: manifests
-    uri: https://github.com/GeorgeLeePatterson/manifests
-  version: v1.1-branch
+    uri: https://github.com/GeorgeLeePatterson/manifests/archive/v1.2-fix.tar.gz
+  version: v1.2-fix
